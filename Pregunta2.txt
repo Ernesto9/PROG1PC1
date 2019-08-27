@@ -1,0 +1,6 @@
+Objetivos:
+- Acceso en todo momento
+- Que no exista perdida de datos al tener todo en la nube.
+-Sincronizar todo mendiante el controlador de versiones para poder revisar versiones estables o visualizar lo que no esté correcto.
+
+multiplexación
